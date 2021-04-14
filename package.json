@@ -1,5 +1,5 @@
 {
-  "name": "event-spy",
+  "name": "dom-event-spy",
   "version": "1.0.0",
   "description": "asyncronously listen for some events and cache them for further analysis",
   "main": "./dist/src/index.js",
